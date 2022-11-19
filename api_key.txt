@@ -1,0 +1,5 @@
+Instructions to use get your api:
+
+You can go to "openweathermap" website and signup to get your personal API key.
+Once you have found your API you can paste it in this txt file and replace all these instructions with the API key.
+Remember to turn on your API key on the weathermap site and also to turn it off once you have done your use.
